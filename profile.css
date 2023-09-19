@@ -1,0 +1,49 @@
+
+
+body{
+    background: linear-gradient(320deg, #000000, #588157, #242521);
+}
+.head{
+    z-index: 1;
+    position: fixed;
+    width: 100%;
+    border: solid;
+    background: linear-gradient(320deg, #000000, #588157, #242521);
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+    box-shadow: 0 4px 30px rgba(35, 35, 35, 0.89) ;
+}
+.main-class{
+    border: none;
+    color: #dad7cd;
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+    box-shadow: 0 4px 30px rgba(35, 35, 35, 0.89) ;
+
+}
+.card1{
+    border: none;
+    color: #dad7cd;
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+    box-shadow: 0 4px 30px rgba(35, 35, 35, 0.89) ;
+    background: #344e41;
+    border-radius: 50px;
+    animation-name:inherit;
+    animation-duration: 0.15s;
+    animation-timing-function: ease-in;
+
+}
+.main-form{
+    border: none;
+    color: #dad7cd;
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+    box-shadow: 0 4px 30px rgba(35, 35, 35, 0.89) ;
+    border-radius: 20px;
+
+}
+.amg{
+    animation: backwards;
+}
+
